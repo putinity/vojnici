@@ -11,9 +11,14 @@ body{
     width: 600px;
     height: 600px;
     margin-top: 20%;
+    margin-right: 27%;
 
     box-shadow: 2px 2px 20px 8px #0ff;
 
+}
+.prvidiv{
+    display: flex;
+    margin-left: 50%;
 }
 .parent-div{
     display: flex;
